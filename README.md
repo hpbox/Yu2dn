@@ -37,7 +37,7 @@ Micrososrt .NET Framework 4.0 or higher
 
 
 ##後續計畫
-AutoIt維護不易，本軟體將轉移至C#或VB.NET開發。
+AutoIt維護不易，本軟體將轉移至C#開發。
 
 ##感謝
 [Youtube Extractor](https://github.com/flagbug/YoutubeExtractor)
